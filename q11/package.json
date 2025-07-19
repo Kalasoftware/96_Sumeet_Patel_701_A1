@@ -1,0 +1,15 @@
+{
+  "name": "simple-expense-tracker",
+  "version": "1.0.2",
+  "description": "A simple and beginner-friendly Node.js module to track your expenses locally using a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sumeet Patel",
+  "license": "ISC",
+  "dependencies": {
+    "simple-expense-tracker": "^1.0.1"
+  }
+}
